@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-	<name>vtpayment</name>
+	<name>UnionPay</name>
 	<displayName><![CDATA[VTPayment]]></displayName>
 	<version><![CDATA[1.3.7]]></version>
 	<description><![CDATA[Accept payments with UnionPay cards by using VTPayment.]]></description>
